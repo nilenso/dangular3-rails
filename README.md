@@ -1,7 +1,7 @@
 # Dangular3::Rails
 
 This is the asset pipeline gem for [dangular3](https://github.com/nilenso/dangular3).
-This also bundles bullet.js which is a dependency for the bullet_graph_directive.
+This also bundles [bullet.js](http://bl.ocks.org/mbostock/4061961#bullet.js) which is a dependency for the bullet_graph_directive.
 
 To customize the d3 graphs, use the assets in [dangular3](https://github.com/nilenso/dangular3) instead of this.
 
